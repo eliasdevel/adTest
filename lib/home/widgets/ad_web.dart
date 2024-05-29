@@ -11,7 +11,7 @@ Widget adsenseAdsView() {
       ..height = '100'
       ..width = '320'
       // ignore: unsafe_html
-      ..src = 'assets/assets/adview.html'
+      ..src = 'assets/assets/adview'
       ..style.border = 'none',
   );
 
