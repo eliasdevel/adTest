@@ -8,10 +8,10 @@ Widget adsenseAdsView() {
   ui.platformViewRegistry.registerViewFactory(
     'adViewType',
     (int viewID) => IFrameElement()
-      ..width = '320'
       ..height = '100'
+      ..width = '320'
       // ignore: unsafe_html
-      ..src = 'assets/adview.html'
+      ..src = 'assets/assets/adview.html'
       ..style.border = 'none',
   );
 
