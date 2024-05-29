@@ -8,7 +8,7 @@ Example Flutter app built with `flutter_bloc` to implement login using Firebase.
 - Sign in with Google
 - Sign up with email and password
 - Sign in with email and password
-
+- Google mobile ad banner when logged
 
 
 
